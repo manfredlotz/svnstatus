@@ -1,3 +1,12 @@
+/ This repository has been moved to codeberg. \
+\ https://codeberg.org/ManfredLotz/svnstatus  /
+ ---------------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+
 # svnstatus
 
 Displays svn status on stdout (to be used by starship)
